@@ -1,0 +1,10 @@
+br/com/wagnerlima85/employees/repository/EmployeeRepository.class
+br/com/wagnerlima85/employees/EmployeesApplication.class
+br/com/wagnerlima85/employees/model/Team.class
+br/com/wagnerlima85/employees/contoller/EmployeeCommands.class
+br/com/wagnerlima85/employees/contoller/EmployeesRestController.class
+br/com/wagnerlima85/employees/repository/TeamRepository.class
+br/com/wagnerlima85/employees/repository/EmployeeRepositoryCustom.class
+br/com/wagnerlima85/employees/repository/EmployeeRepositoryImpl.class
+br/com/wagnerlima85/employees/model/Employee.class
+br/com/wagnerlima85/employees/service/EmployeeService.class
